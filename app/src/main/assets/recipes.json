@@ -1,0 +1,59 @@
+{
+  "recipes": [
+    {
+      "title": "KOYA",
+      "image" : "https://www.bt21.com/img/character/bt21/koya.gif",
+      "description": "Brilliant, multi-talented KOYA is quite the ‘sleeping cutie’. KOYA naps with a mind heavily filled with thoughts. #talented #pillow #droopyeyes #removableears",
+      "servings": "Gifted sleepyhead"
+      },
+
+    {
+      "title": "RJ",
+      "image" : "https://www.bt21.com/img/character/bt21/rj.gif",
+      "description": "RJ loves cooking. RJ loves eating. It's usually in that order. The fluffy fur coat and compassionate soul make everyone feel right at home. #greetings #gentlesoul #parka #omnomnom",
+      "servings": "Kind, loving, foodie"
+       },
+
+    {
+      "title": "SHOOKY",
+      "image" : "https://www.bt21.com/img/character/bt21/shooky.gif",
+      "description": "Tiny SHOOKY loves pulling pranks, especially ones dropped on friends. The one thing SHOOKY hates most is milk. #fun #manyfaces #mini #CRUNCHYSQUAD",
+      "servings": "Mini prankster"
+      },
+
+    {
+      "title": "MANG",
+      "image" : "https://www.bt21.com/img/character/bt21/mang.gif",
+      "description": "Dancing runs in MANG’s veins. Wherever there’s music, MANG’s probably there breaking out some cool moves. Veiled under a mask, MANG's true identity remains a secret. #heartshapednose #mask #mystery #bestdancer",
+      "servings": "Mystery dancer"
+      },
+
+    {
+      "title": "CHIMMY",
+      "image" : "https://www.bt21.com/img/character/bt21/chimmy.gif",
+      "description": "CHIMMY always sports the signature yellow hoodie and is compelled to work hard on anything that catches CHIMMY’s attention. #passion #workhard #playhard #harmonica #yellowhoodie",
+      "servings": "The pure-at-heart"
+    },
+
+    {
+      "title": "TATA",
+      "image" : "https://www.bt21.com/img/character/bt21/tata.gif",
+      "description": "TATA is a crown prince on Planet BT. Possessor of supernatural powers and a hyper-elastic body that stretches to great lengths. #PlanetBT #offthewall #superpowers #Prince",
+      "servings": "An off-the-wall, curious soul, Prince"
+      },
+
+    {
+      "title": "COOKY",
+      "image" : "https://www.bt21.com/img/character/bt21/cooky.gif",
+      "description": "Don’t let COOKY’s perky appearance fool you. Always full of heart and boundless stamina, COOKY’s that one friend you can always count on. #unbalanced #eyebrows #loyal #imaginarymuscles #wisecracker",
+      "servings": "Brawny, hearty rumps"
+     },
+
+    {
+      "title": "VAN",
+      "image" : "https://www.bt21.com/img/character/bt21/van.gif",
+      "description": "The sentient and all-knowing robot VAN seems to be knowledgeable. in just about everything in the galaxy. Acts as protector of BT21, 24/7. #guardian #vehicle #transforming #robot",
+      "servings": "Guardian space robot"
+       }
+  ]
+}

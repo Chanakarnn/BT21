@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BT21</string>
+    <string name="facebook_app_id">2243704799271019</string>
+    <string name="fb_login_protocol_scheme">fb2243704799271019</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
